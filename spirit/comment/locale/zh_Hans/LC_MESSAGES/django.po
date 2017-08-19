@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spirit\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 19:55+0000\n"
+"POT-Creation-Date: 2017-08-17 04:40+0000\n"
 "PO-Revision-Date: 2015-10-14 19:38+0000\n"
 "Last-Translator: Esteban M. Castro Borsani <ecastroborsani@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/spirit-project/"
@@ -15,56 +15,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: forms.py:30
+#: forms.py:39
 msgid "Write comment..."
 msgstr "发表评论"
 
-#: forms.py:101
+#: forms.py:127
 #, python-format
 msgid "Unsupported file format. Supported formats are %s."
 msgstr "文件格式不支持，支持的文件格式有：%s."
 
-#: models.py:20 models.py:34 models.py:49
+#: models.py:18 models.py:32 models.py:47
 msgid "comment"
 msgstr "评论"
 
-#: models.py:21
+#: models.py:19
 msgid "topic moved"
 msgstr "主题已转移"
 
-#: models.py:22
+#: models.py:20
 msgid "topic closed"
 msgstr "主题已关闭"
 
-#: models.py:23
+#: models.py:21
 msgid "topic unclosed"
 msgstr "主题已重新开启"
 
-#: models.py:24
+#: models.py:22
 msgid "topic pinned"
 msgstr "主题已置顶"
 
-#: models.py:25
+#: models.py:23
 msgid "topic unpinned"
 msgstr "主题已取消置顶"
 
-#: models.py:35
+#: models.py:33
 msgid "comment html"
 msgstr "评论html"
 
-#: models.py:36
+#: models.py:34
 msgid "action"
 msgstr "动作"
 
-#: models.py:42
+#: models.py:40
 msgid "modified count"
 msgstr "编辑次数"
 
-#: models.py:43
+#: models.py:41
 msgid "likes count"
 msgstr "被喜欢的次数"
 
-#: models.py:50
+#: models.py:48
 msgid "comments"
 msgstr "评论"
 

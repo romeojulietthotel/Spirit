@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spirit\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 19:56+0000\n"
+"POT-Creation-Date: 2017-08-17 04:40+0000\n"
 "PO-Revision-Date: 2015-07-25 18:00+0000\n"
 "Last-Translator: Esteban M. Castro Borsani <ecastroborsani@gmail.com>\n"
 "Language-Team: Spirit\n"
@@ -12,19 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: forms.py:41
+#: forms.py:70
 msgid "user1, user2, ..."
 msgstr "användare1, användare2, ..."
 
-#: forms.py:73
+#: forms.py:102
 msgid "username"
 msgstr "användarnamn"
 
-#: forms.py:74
+#: forms.py:103
 msgid "Invite user"
 msgstr "Bjud in användare"
 
-#: forms.py:92 forms.py:126
+#: forms.py:121 forms.py:155
 #, python-format
 msgid "%(username)s is already a participant"
 msgstr "%(username)s deltar redan"

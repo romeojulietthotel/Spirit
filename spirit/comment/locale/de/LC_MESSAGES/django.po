@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spirit\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 19:55+0000\n"
+"POT-Creation-Date: 2017-08-17 04:40+0000\n"
 "PO-Revision-Date: 2015-10-14 19:38+0000\n"
 "Last-Translator: Esteban M. Castro Borsani <ecastroborsani@gmail.com>\n"
 "Language-Team: German (http://www.transifex.com/spirit-project/spirit/"
@@ -15,56 +15,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: forms.py:30
+#: forms.py:39
 msgid "Write comment..."
 msgstr "Kommentar schreiben..."
 
-#: forms.py:101
+#: forms.py:127
 #, python-format
 msgid "Unsupported file format. Supported formats are %s."
 msgstr "Nicht unterstütztes Dateiformat. Unterstützte Formate sind %s."
 
-#: models.py:20 models.py:34 models.py:49
+#: models.py:18 models.py:32 models.py:47
 msgid "comment"
 msgstr "Kommentar"
 
-#: models.py:21
+#: models.py:19
 msgid "topic moved"
 msgstr "Thema verschoben"
 
-#: models.py:22
+#: models.py:20
 msgid "topic closed"
 msgstr "Thema geschlossen"
 
-#: models.py:23
+#: models.py:21
 msgid "topic unclosed"
 msgstr "Thema geöffnet"
 
-#: models.py:24
+#: models.py:22
 msgid "topic pinned"
 msgstr "Thema festheften"
 
-#: models.py:25
+#: models.py:23
 msgid "topic unpinned"
 msgstr "Thema nicht festgeheftet"
 
-#: models.py:35
+#: models.py:33
 msgid "comment html"
 msgstr "comment html"
 
-#: models.py:36
+#: models.py:34
 msgid "action"
 msgstr "Aktion"
 
-#: models.py:42
+#: models.py:40
 msgid "modified count"
 msgstr "modifizierter Zähler"
 
-#: models.py:43
+#: models.py:41
 msgid "likes count"
 msgstr "likes count"
 
-#: models.py:50
+#: models.py:48
 msgid "comments"
 msgstr "Kommentare"
 

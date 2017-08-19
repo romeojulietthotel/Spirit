@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spirit\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 19:55+0000\n"
+"POT-Creation-Date: 2017-08-17 04:40+0000\n"
 "PO-Revision-Date: 2015-10-14 19:38+0000\n"
 "Last-Translator: Esteban M. Castro Borsani <ecastroborsani@gmail.com>\n"
 "Language-Team: Polish (http://www.transifex.com/spirit-project/spirit/"
@@ -16,56 +16,56 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 
-#: forms.py:30
+#: forms.py:39
 msgid "Write comment..."
 msgstr "Napisz komentarz..."
 
-#: forms.py:101
+#: forms.py:127
 #, python-format
 msgid "Unsupported file format. Supported formats are %s."
 msgstr "Niewspierany format pliku. Wspierane formaty to %s."
 
-#: models.py:20 models.py:34 models.py:49
+#: models.py:18 models.py:32 models.py:47
 msgid "comment"
 msgstr "komentarz"
 
-#: models.py:21
+#: models.py:19
 msgid "topic moved"
 msgstr "wątek przeniesiony"
 
-#: models.py:22
+#: models.py:20
 msgid "topic closed"
 msgstr "wątek zamknięty"
 
-#: models.py:23
+#: models.py:21
 msgid "topic unclosed"
 msgstr "wątek ponownie otwarty"
 
-#: models.py:24
+#: models.py:22
 msgid "topic pinned"
 msgstr "wątek przypięty"
 
-#: models.py:25
+#: models.py:23
 msgid "topic unpinned"
 msgstr "wątek odpięty"
 
-#: models.py:35
+#: models.py:33
 msgid "comment html"
 msgstr "komentarz html"
 
-#: models.py:36
+#: models.py:34
 msgid "action"
 msgstr "akcja"
 
-#: models.py:42
+#: models.py:40
 msgid "modified count"
 msgstr "zmian"
 
-#: models.py:43
+#: models.py:41
 msgid "likes count"
 msgstr "polubień"
 
-#: models.py:50
+#: models.py:48
 msgid "comments"
 msgstr "komentarze"
 
